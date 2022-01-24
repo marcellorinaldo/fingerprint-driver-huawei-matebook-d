@@ -1,4 +1,4 @@
-# Goodix-Fingerprint-Driver-Huawei-Matebook-D
+# Goodix Fingerprint Driver install procedure for Huawei Matebook D
 Procedure to install the Goodix Fingerprint Drivers on Huawei Matebook D (Intel version).
 
 This can be useful when formatting the PC or reinstalling Windows.
